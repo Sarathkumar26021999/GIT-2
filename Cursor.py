@@ -30,3 +30,7 @@ while True:
     # requirement. This works with all keys.
     for i in range(0, 3):
         pyautogui.press('shift')
+        
+        
+  #adding simple line
+     #just for a namesake  
